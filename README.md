@@ -7,3 +7,4 @@
 
 Ссылка на дипфейк: https://youtu.be/UN5j7IK-q64
 Также до и после лежат в папке /Extra/Deepfake
+branches
